@@ -37,7 +37,3 @@ I reverse-engineer painters' compositional logic into parametric 3D code. Same i
 - [Klint & Kandinsky](https://morrisglr.github.io/algo-art-klint-kandinsky/) &middot; early-abstraction form languages, ported to WebGL.
 - [Lepidoptera scales](https://morrisglr.github.io/algo-art-lep-scales/) &middot; biological pattern as generative system.
 - [Full creative portfolio](https://morrisglr.github.io/creative/)
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/morris-aguilar) &middot; [Bluesky](https://bsky.app/profile/morrisglr.bsky.social)
