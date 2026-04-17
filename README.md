@@ -6,7 +6,7 @@ Physician-trained, bioinformatician, and developer. I work where medicine, machi
 
 ## The Through-Line
 
-As a bioinformatics Ph.D. and an M.D., I turn opaque, effortful, and costly expert judgment into reproducible systems: automating nuclear magnetic resonance metabolite identification, benchmarking on-device LLMs to generate patient notes within the real-world computational and privacy constraints of clinics, and translating a painter’s compositional logic into parametric code.
+As a bioinformatics Ph.D. and an M.D., I turn opaque, effortful, and costly expert judgment into reproducible systems: automating nuclear magnetic resonance metabolite identification, benchmarking on-device LLMs to generate patient notes within the real-world computational and privacy constraints of clinics, and translating painters' compositional logic into parametric code.
 
 ## What I am Building
 
