@@ -6,11 +6,11 @@ Physician-trained, bioinformatician, and developer. I work where medicine, machi
 
 ## The Through-Line
 
-Across a PhD in bioinformatics, an MD, and many side projects, one pattern holds: I turn domains where expert judgment is opaque, effortful, or costly into systems that make it reproducible and local. NMR metabolite identification required proprietary software and a trained eye, so I automated it. Physicians spend most of their day on notes, so I benchmarked on-device language models that draft them without protected health information leaving the clinic. A painter's compositional logic is implicit, so I reverse-engineered it into parametric code.
+As a bioinformatics Ph.D. and an M.D., I turn opaque, effortful, and costly expert judgment into reproducible systems: automating nuclear magnetic resonance metabolite identification, benchmarking on-device LLMs to generate patient notes within the real-world computational and privacy constraints of clinics, and translating a painter’s compositional logic into parametric code.
 
 ## What I am Building
 
-I concentrate on clinical AI that runs where work happens, inside clinics, on local hardware, integrated with workflows. My focus is documentation quality, privacy-preserving inference, and tools that meet real clinician constraints beyond benchmark assumptions. That focus is earned in 2020 when I led a National Science Foundation I-Corps project translating an NLP tool for clinical trial protocols into an MVP, including dozens of interviews with future users. Good technical ideas die when they ignore workflow, so I design against that pitfall.
+I build clinical AI that runs inside clinics, on local hardware, and integrated with real workflows. My focus is documentation quality, privacy-preserving inference, and tools that go beyond benchmark assumptions. In 2020, I led an NSF I-Corps project bringing an NLP tool for clinical trials into an MVP through dozens of user interviews. Good technical ideas die when they ignore workflow, so I design against that.
 
 ## Selected Publications
 
