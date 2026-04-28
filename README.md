@@ -36,4 +36,4 @@ I reverse-engineer painters' compositional logic into parametric 3D code. Same i
 - [Hopper](https://morrisglr.github.io/algo-art-hopper/) &middot; light, geometry, and American solitude as parametric scenes.
 - [Klint & Kandinsky](https://morrisglr.github.io/algo-art-klint-kandinsky/) &middot; early-abstraction form languages, ported to WebGL.
 - [Lepidoptera scales](https://morrisglr.github.io/algo-art-lep-scales/) &middot; biological pattern as generative system.
-- [Full creative portfolio](https://morrisglr.github.io/creative/)
+- [Full creative portfolio](https://mementomorris.art/)
